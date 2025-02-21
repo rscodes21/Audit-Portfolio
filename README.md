@@ -2,8 +2,8 @@
 
 Hi I am a web3 security researcher and I compete in public contests under the username `rscodes`. This portfolio details my public contest rankings as well as some of the private audits I have completed.
 
-| Contest Name | Platform | Description | Findings Found | Rank |
-|:------------:|:--------:|-------------|----------------|------|
+| Contest Name | Platform | Description | Findings | Rank |
+|:------------:|:--------:|-------------|----------|------|
 | **Juicebox V4**|Cantina | Data 2    |
 | Row 2     | Data 3    | Data 4    |
 
