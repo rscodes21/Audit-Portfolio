@@ -4,7 +4,7 @@ Hi I am a web3 security researcher who competes in public contests under the use
 
 I came from a background of solving computational algorithmic problems. Leveraging on my past experience, I made a leap into web3 sec and found that it was quite suitable for me. My background in complex algorithms allowed me to approach complex attack vectors like a puzzle and with that I was able to find multiple solo Highs and Mediums in recent public contests.
 
-I compete mostly on `Cantina` and `Code4rena` and I'm happy to annouce that I have managed to get (3x)🏆1st places and (1x)🥈2nd place over the past few months! 🙃
+I compete mostly on `Cantina` and `Code4rena` and managed to get (3x)🏆1st places and (1x)🥈2nd place over the past few months! 🙃
   * ⚡⚡⚡ Proficient in Solidity/EVM 
   * ⚡ Started learning Rust (currently doing a Rust contest)
 
