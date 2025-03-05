@@ -19,6 +19,7 @@ I compete mostly on `Cantina` and `Code4rena` and managed to get (3x)🏆1st pla
 | **Loopfi** | Code4rena | July 2024 | `Lending/Borrowing`, `Restaking`,<br>`Masterchef's reward emissions` | <h5>1H, 4M</h5> | [7th](https://code4rena.com/audits/2024-07-loopfi) |
 | **Phi** | Code4rena | Aug 2024 | `GameFi`, `NFTs`, `Signatures`,<br>`Bonding curve for shares` | <h5>4H, 3M</h5> | [8th](https://code4rena.com/audits/2024-08-phi) |
 | **ZKSync** | Codehawks | Oct 2024 | `Bridging`, `Cross-chain`, `L2`, <br>`Governance contracts` | <h5>1M</h5> | |
+| **Concrete** | Code4rena | Nov 2024 | `Derivaties`, `Liquidity`,<br>`Leveraged Positions`| <h5>2H, 8M</h5>| |
 
 ## Private Engagements
 | Client Name | Worked With | Date | Report |
