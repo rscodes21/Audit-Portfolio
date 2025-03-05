@@ -23,8 +23,8 @@ I compete mostly on `Cantina` and `Code4rena` and managed to get (3x)🏆1st pla
 ## Private Engagements
 | Client Name | Worked With | Date | Report |
 |:-----------:|:-----------:|:----:|:------:|
-| Legion | Zenith | Feb 2025 | _Private_ |
-| Parrarel Protocol | Zenith | Feb 2025 | _Private_ |
+| Legion | **Zenith** | Feb 2025 | _Private_ |
+| Parrarel Protocol | **Zenith** | Feb 2025 | _Private_ |
 
 ## Bug Bounty Payouts
 | Project | Platform | Severity | Report |
