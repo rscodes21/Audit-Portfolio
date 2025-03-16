@@ -6,7 +6,7 @@ I came from a background of solving computational algorithmic problems. Leveragi
 
 I compete mostly on `Cantina` and `Code4rena` and managed to get (3x)🏆1st places and (1x)🥈2nd place over the past few months! 🙃
   * ⚡⚡⚡ Proficient in Solidity/EVM 
-  * ⚡ Started learning Rust (currently doing a Rust contest)
+  * ⚡⚡ Proficient in Rust (currently doing a Rust contest)
 
 ## Public Contests
 
