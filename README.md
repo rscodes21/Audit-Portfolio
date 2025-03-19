@@ -1,12 +1,12 @@
 # My Audit Portfolio
 
-Hi I am a web3 security researcher who competes in public contests under the username `rscodes`.
+Hi I am a `rscodes`, a web3 security researcher competing in public contests. I also do private audits under **$${\textbf{\color{darkgreen}Spearbit(ASR)}}$$** and **$${\textbf{\color{blue}Zenith}}$$**.
 
 I came from a background of solving computational algorithmic problems. Leveraging on my past experience, I made a leap into web3 sec and found that it was quite suitable for me. My background in complex algorithms allowed me to approach complex attack vectors like a puzzle and with that I was able to find multiple solo Highs and Mediums in recent public contests.
 
 I compete mostly on `Cantina` and `Code4rena` and managed to get (3x)🏆1st places and (1x)🥈2nd place over the past few months! 🙃
   * ⚡⚡⚡ Proficient in Solidity/EVM 
-  * ⚡⚡ Proficient in Rust (currently doing a Rust contest)
+  * ⚡⚡ Proficient in Rust Smart Contracts (cosmwasm contracts/solana)
 
 ## Public Contests
 
