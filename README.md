@@ -1,6 +1,6 @@
 # My Audit Portfolio
 
-Hi I am a `rscodes`, a web3 security researcher competing in public contests. I also do private audits under **$${\textbf{\color{darkgreen}Spearbit(ASR)}}$$** and **$${\textbf{\color{blue}Zenith}}$$**.
+Hi I am `rscodes`, a web3 security researcher competing in public contests. I also do private audits under **$${\textbf{\color{darkgreen}Spearbit(ASR)}}$$** and **$${\textbf{\color{blue}Zenith}}$$**.
 
 I came from a background of solving computational algorithmic problems. Leveraging on my past experience, I made a leap into web3 sec and found that it was quite suitable for me. My background in complex algorithms allowed me to approach complex attack vectors like a puzzle and with that I was able to find multiple solo Highs and Mediums in recent public contests.
 
