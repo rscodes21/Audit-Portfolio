@@ -23,7 +23,7 @@ I compete on `Cantina` and `Code4rena` and a have track record of (3x)🏆1st pl
 ## Private Engagements
 | Client Name | Worked With | Date | Report |
 |:-----------:|:-----------:|:----:|:------:|
-| Legion | **Zenith** | Feb 2025 | _Private_ |
+| Legion | **Zenith** | Feb 2025 | [Report](https://github.com/rscodes21/Audit-Portfolio/blob/main/Legion%20-%20Zenith%20Audit%20Report.pdf) |
 | Parrarel Protocol | **Zenith** | Feb 2025 | _Private_ |
 | Coinbase Commerce V1 | **Spearbit** | April 2025 | _Private_ |
 
