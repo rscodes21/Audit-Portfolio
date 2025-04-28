@@ -25,7 +25,8 @@ I compete on `Cantina` and `Code4rena` and a have track record of (3x)🏆1st pl
 |:-----------:|:-----------:|:----:|:------:|
 | Legion | **Zenith** | Feb 2025 | [Report](https://github.com/rscodes21/Audit-Portfolio/blob/main/Legion%20-%20Zenith%20Audit%20Report.pdf) |
 | Parrarel Protocol | **Zenith** | Feb 2025 | _Private_ |
-| Coinbase Commerce V1 | **Spearbit** | April 2025 | _Private_ |
+| Coinbase Commerce V1 | **Spearbit** | April 2025 | _Out Soon_ |
+| Melio Protocol | **Spearbit** | April 2025 | _Out Soon_ |
 
 ## Bug Bounty Payouts
 | Project | Platform | Severity | Report |
