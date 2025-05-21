@@ -1,6 +1,6 @@
 # Juicebox Audit Findings
 
-In December of 2024, I participated in Juicebox V4's [audit contest on Cantina](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) securing **1st place 🏆** with 6 High Severity Findings and 4 Medium Severity Findings.
+In December of 2024, I participated in Juicebox V4's audit contest on Cantina securing [**1st place 🏆**](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) with 6 High Severity Findings and 4 Medium Severity Findings.
 
 ## Table of contents
 | Severity | Title |
