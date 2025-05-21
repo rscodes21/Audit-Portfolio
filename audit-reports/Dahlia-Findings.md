@@ -5,11 +5,12 @@ In January of 2025, I participated in Dahlia's audit contest on Cantina securing
 ## Table of contents
 | Severity | Title |
 |:--------:|-------|
-| **High** | []() |
-| **Medium** | []() |
-| **Medium** | []() |
-| **Medium** | []() |
-| **Medium** | []() |
+| **High** | [[H-01] withdraw subtracts principal amount wrongly](#h-01-withdraw-subtracts-principal-amount-wrongly) |
+| **Medium** | [[M-01] Malicious users can bypass 100% of the flashloan fee and take a flashloan for free](#m-01-malicious-users-can-bypass-100-of-the-flashloan-fee-and-take-a-flashloan-for-free) |
+| **Medium** | [[M-02] Wrong values used in calculations for collateral refunds](#m-02-wrong-values-used-in-calculations-for-collateral-refunds) |
+| **Medium** | [[M-03] `updateLiquidationBonusRate` may clash with liquidators deciding whether to liquidate](#m-03-updateliquidationbonusrate-may-clash-with-liquidators-deciding-whether-to-liquidate) |
+| **Medium** | [[M-04] setRewardsInterval should ensure that `start >= block.timestamp`](#m-04-setrewardsinterval-should-ensure-that-start--blocktimestamp) |
+| **Medium** | [[M-05] Rewards in WrappedVault could be lost due to `internalWithdrawDepositAndClaimCollateral` not updating all variables properly](#m-05-rewards-in-wrappedvault-could-be-lost-due-to-internalwithdrawdepositandclaimcollateral-not-updating-all-variables-properly) |
 
 ----
 
