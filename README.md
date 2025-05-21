@@ -35,8 +35,10 @@ Competing in audit contests and securing codebases before mainnet launch, I have
 | Optimism | Immunefi | _Private_ | _Private_ |
 
 ## Audit Findings
-I collated some of vulnerability findings :)
+I collated some of my vulnerability findings :)
 
 | Project | Findings |
 |:-------:|:--------:|
-| Juicebox | [Writeup]() |
+| Juicebox | [Writeup](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Juicebox-Findings.md) |
+| Dahlia | [Writeup]() |
+| Royco | [Writeup]() |
