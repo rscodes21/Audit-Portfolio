@@ -3,9 +3,18 @@
 In December of 2024, I participated in Juicebox V4's [audit contest on Cantina](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) securing 1st place 🏆 with 6 High Severity Findings and 4 Medium Severity Findings.
 
 ## Table of contents
-| Title |
-|-------|
-| [[H-01] Attacker can exploit re-entrancy to retain ownership of clothing item even while their Banny is wearing it](#h-01-attacker-can-exploit-re-entrancy-to-retain-ownership-of-clothing-item-even-while-their-banny-is-wearing-it) |
+| Severity | Title |
+|:--------:|-------|
+| **High** | [[H-01] Attacker can exploit re-entrancy to retain ownership of clothing item even while their Banny is wearing it](#h-01-attacker-can-exploit-re-entrancy-to-retain-ownership-of-clothing-item-even-while-their-banny-is-wearing-it) |
+| **High** | [[H-02] User can take back collateral without paying borrowed amount (and also steal the source fee as well)](#h-02-user-can-take-back-collateral-without-paying-borrowed-amount-and-also-steal-the-source-fee-as-well)
+| **High** | [[H-03] Previous wearer's `_attachedWorldIdOf` not reset to 0 could cause issues](#h-03-previous-wearers-_attachedworldidof-not-reset-to-0-could-cause-issues) |
+| **High** | [[H-04] Can exploit re-entrancy to mint more tokens in `JBController.sol`](#h-04-can-exploit-re-entrancy-to-mint-more-tokens-in-jbcontrollersol) |
+| **High** | [[H-05] Revnet's `afterCashOutRecordedWith` hook does not give approval to feeTerminal causing permanent revert](#h-05-revnets-aftercashoutrecordedwith-hook-does-not-give-approval-to-feeterminal-causing-permanent-revert) |
+| **High** | [[H-06] Malicious user can "duplicate" loans in REVLoans](#h-06-malicious-user-can-duplicate-loans-in-revloans) |
+| **Medium** | [[M-01] Other users can frontrun to leech on victim's `toRemote` and cause victim to pay higher fee](#m-01-other-users-can-frontrun-to-leech-on-victims-toremote-and-cause-victim-to-pay-higher-fee) |
+| **Medium** | [[M-02] Revnet does not handle converting existing juicebox projects into revnets properly in some situations](#m-02-revnet-does-not-handle-converting-existing-juicebox-projects-into-revnets-properly-in-some-situations) |
+| **Medium** | [[M-03] `toRemote` shouldn't be ran if `emergencyHatch` is set to true](#m-03-toremote-shouldnt-be-ran-if-emergencyhatch-is-set-to-true) |
+| **Medium** | [[M-04] User might end up getting funds stuck for 14 days in `JBSucker.sol`](#m-04-user-might-end-up-getting-funds-stuck-for-14-days-in-jbsuckersol) |
 
 ----
 
@@ -860,7 +869,7 @@ Check `_remoteTokenFor[terminalToken].emergencyHatch != true`
 
 ----
 
-## [M-04] User might end up getting funds stuck for 14 days in JBSucker.sol
+## [M-04] User might end up getting funds stuck for 14 days in `JBSucker.sol`
 
 ### Summary
 In JBSucker.sol's `_validateForEmergencyExit`, we can see that this is the condition the code has in order to call it
