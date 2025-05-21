@@ -40,5 +40,5 @@ I collated some of my vulnerability findings :)
 | Project | Findings |
 |:-------:|:--------:|
 | Juicebox | [Writeup](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Juicebox-Findings.md) |
-| Dahlia | [Writeup]() |
+| Dahlia | [Writeup](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Dahlia-Findings.md) |
 | Royco | [Writeup]() |
