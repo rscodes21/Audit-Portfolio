@@ -25,10 +25,12 @@ Competing in audit contests and securing codebases before mainnet launch, I have
 | Client Name | Worked With | Date | Report |
 |:-----------:|:-----------:|:----:|:------:|
 | Legion | **Zenith** | Feb 2025 | [Report](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Legion%20-%20Zenith%20Audit%20Report.pdf) |
-| Parrarel Protocol | **Zenith** | Feb 2025 | _Private_ |
+| Parrarel Protocol | **Zenith** | Feb 2025 | _Out Soon_ |
 | Coinbase Commerce V1 | **Spearbit** | April 2025 | _Out Soon_ |
 | Melio Protocol | **Spearbit** | April 2025 | _Out Soon_ |
 | Y0.xyz | **Spearbit** | May 2025 | _Out Soon_ |
+| Lindy Labs | **Zenith** | June 2025 | _Out Soon_ |
+| Swell Network | **Zenith** | July 2025 | _Out Soon_ |
 
 ## Bug Bounty Payouts
 | Project | Platform | Severity | Report |
