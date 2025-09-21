@@ -31,6 +31,8 @@ Competing in audit contests and securing codebases before mainnet launch, I have
 | Y0.xyz | **Spearbit** | May 2025 | _Still Private_ |
 | Lindy Labs | **Zenith** | June 2025 | _Still Private_ |
 | Swell Network | **Zenith** | July 2025 | _Still Private_ |
+| Nucleus | **Zenith** | July 2025 | _Still Private_ |
+| Morpheus | **Zenith** | July 2025 | _Still Private_ |
 
 ## Bug Bounty Payouts
 | Project | Platform | Severity | Report |
