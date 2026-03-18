@@ -4,7 +4,7 @@ Hi I am `rscodes`, a web3 security researcher competing in public contests. I al
 
 I came from a background of solving computational algorithmic problems💻, which were often mathematically heavy as well. My background in complex algorithms allowed me to approach complex codebases like a puzzle and with that I was able to find multiple solo Highs and Medium vulnerabilities in public contests.
 
-Competing in audit contests and securing codebases before mainnet launch, I have a track record of (3x)🏆1st places and (1x)🥈2nd place 🙃
+Competing in public blockchain contests, I have a portfolio of (3x)🏆1st places and (1x)🥈2nd place wins 🙃
   * Proficient in Solidity/EVM
   * Proficient in Rust Smart Contracts
 
@@ -22,25 +22,38 @@ Competing in audit contests and securing codebases before mainnet launch, I have
 | **Phi** | Code4rena | `GameFi`, `NFTs` | <h5>4H, 3M</h5> | [8th](https://code4rena.com/audits/2024-08-phi) |
 
 ## Private Engagements
+
+#### Spearbit
+| Client Name | Worked With | Date | Report |
+|:-----------:|:-----------:|:----:|:------:|
+| Coinbase Commerce V1 | **Spearbit** | April 2025 | _Still Private_ |
+| Melio Protocol | **Spearbit** | April 2025 | [Report->2 cool crits ;)](https://cantina.xyz/portfolio/ef289ecf-cf69-472d-9d98-572bbaeec30d) |
+| Y0.xyz | **Spearbit** | May 2025 | [Report link](https://github.com/yoprotocol/core/blob/main/audits/Yo-Protocol-Spearbit-Security-Review.pdf) |
+| Eliza Labs OTC EVM | **Spearbit** | October 2025 | _Still Private_ |
+| Monad Distribution Escrow | **Spearbit** | October 2025 | [Report link](https://cantina.xyz/portfolio/749c4d66-7c6f-40d7-b94a-713e97acfedc) |
+| Tenbin Labs | **Spearbit** | Jan 2026 | _Still Private_ |
+| Chronicle Labs | **Spearbit** | Jan 2026 | _Still Private_ |
+
+#### Zenith
 | Client Name | Worked With | Date | Report |
 |:-----------:|:-----------:|:----:|:------:|
 | Legion | **Zenith** | Feb 2025 | [Report](https://github.com/rscodes21/Audit-Portfolio/blob/main/audit-reports/Legion%20-%20Zenith%20Audit%20Report.pdf) |
 | Parrarel Protocol | **Zenith** | Feb 2025 | _Still Private_ |
-| Coinbase Commerce V1 | **Spearbit** | April 2025 | _Still Private_ |
-| Melio Protocol | **Spearbit** | April 2025 | [Report->2 cool crits ;)](https://cantina.xyz/portfolio/ef289ecf-cf69-472d-9d98-572bbaeec30d) |
-| Y0.xyz | **Spearbit** | May 2025 | _Still Private_ |
-| Lindy Labs | **Zenith** | June 2025 | _Still Private_ |
+| Lindy Labs | **Zenith** | June 2025 | [Report](https://github.com/zenith-security/reports/blob/main/reports/Lindy%20-%20Zenith%20Audit%20Report.pdf) |
 | Swell Network | **Zenith** | July 2025 | _Still Private_ |
 | Nucleus | **Zenith** | July 2025 | _Still Private_ |
-| Morpheus | **Zenith** | July 2025 | _Still Private_ |
+| Morpheus | **Zenith** | July 2025 | [Report](https://github.com/zenith-security/reports/blob/main/reports/Morpheus%20-%20Zenith%20Audit%20Report.pdf) |
+| Lmnal (Liminal Contracts) | **Zenith** | October 2025 | [Report](https://github.com/Lmnal/liminal-contracts) |
+| Valantis | **Zenith** | October 2025 | _Still Private_ |
+| Treasures | **Zenith** | November 2025 | _Still Private_ |
 
 ## Bug Bounty Payouts
 | Project | Platform | Severity | Report |
 |:-------:|:--------:|:--------:|:------:|
 | Optimism | Immunefi | _Private_ | _Private_ |
 
-## Audit Findings
-I collated some of my vulnerability findings :)
+## Public Audit Contest Findings
+I collated some of my public contributions, feel free to use.
 
 | Project | Findings |
 |:-------:|:--------:|
